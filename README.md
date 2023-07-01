@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,atom,aws,azure,bash,c,cs,cpp,cmake,css,discord,docker,dotnet,eclipse,figma,flask,gcp,git,github,gitlab,gradle,graphql,html,idea,ai,java,js,jenkins,kubernetes,latex,linux,md,matlab,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,pytorch,qt,rabbitmq,raspberrypi,react,redux,regex,rust,spring,sqlite,stackoverflow,tailwind,tensorflow,ts,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,arduino,atom,aws,azure,bash,c,cs,cpp,cmake,css,docker,dotnet,eclipse,figma,flask,gcp,git,github,gitlab,gradle,graphql,html,idea,ai,java,js,jenkins,kubernetes,latex,linux,md,matlab,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,pytorch,qt,rabbitmq,raspberrypi,react,redux,regex,rust,spring,sqlite,stackoverflow,tailwind,tensorflow,ts,visualstudio,vscode" />
   </a>
 </p>
 
