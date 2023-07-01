@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Wolodia,</h1>
 
-<h3 align="center">I'm a full-stack software developer and an MSc student who love to discover new technologies by creating and discovering new and innovative projects !</h3>
+<h3 align="center">I'm a full-stack software developer and an MSc student who loves to discover new technologies by creating and discovering new and innovative projects !</h3>
 
-- 🌱 I’m currently learning **Multiple things listed below !**
+- 🌱 I’m currently learning **Multiple things in the list below !**
 - 👯 I’m collaborating on [Recommender System School Project](https://github.com/TeissierYannis/CPE-bigdata-TDM-project)
 - 🤝 I'am proud of [Pokegeo project - Pokemon Go-liked game](https://github.com/TeissierYannis/CPE-Pokegeo-Android)
 - 👨‍💻 All of my public projects are available [here](https://github.com/wolozdeto?tab=repositories&type=source)
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h5>Some stats ⚡</h5>
+<h3>Some stats ⚡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolozdeto&label=Profile%20views&color=0e75b6&style=flat" alt="wolozdeto" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wolozdeto&show_icons=true&locale=en" alt="wolozdeto"/></p>
